@@ -1,0 +1,26 @@
+
+# Mailer.CCRecipients Property (Excel)
+
+You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
+
+
+## Syntax
+
+ _expression_. **CCRecipients**
+
+ _expression_A variable that represents a  **Mailer** object.
+
+
+## See also
+
+
+#### Concepts
+
+
+ [Mailer Object](bd6b8c82-3d2e-e029-58b3-525049b1e03c.md)
+#### Other resources
+
+
+ [Mailer Object Members](0d119db4-b6b3-4d66-8a4b-fe852b160740.md)
+****   **Contribute to this article**Want to edit or suggest changes to this content? You can edit and submit changes to  [this article](https://github.com/jhershey00/VBA_Excel_Test/OpenXMLCon/articles/efcceedd-dc35-a683-bdc1-50b8b8368f31.md) using GitHub.
+
