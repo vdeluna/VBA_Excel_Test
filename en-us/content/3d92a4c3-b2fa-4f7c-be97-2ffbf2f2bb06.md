@@ -8,7 +8,7 @@
 The following example looks at column A, and if there is a blank cell, sets the value of the blank cell to equal the value of the cell above it. This continues down the entire column, filling a value down into each blank cell.
 
  **Sample code provided by:**
-![MVP Contributor](..\images\odc_OfficeTA_33px_MVPContrib.jpg) Tom Urtis, [Atlas Programming Management](http://www.atlaspm.com/) | [About the Contributor](3d92a4c3-b2fa-4f7c-be97-2ffbf2f2bb06.md#AboutContributor)
+![MVP Contributor](images/odc_OfficeTA_33px_MVPContrib.jpg) Tom Urtis, [Atlas Programming Management](http://www.atlaspm.com/) | [About the Contributor](3d92a4c3-b2fa-4f7c-be97-2ffbf2f2bb06.md#AboutContributor)
 
 
 

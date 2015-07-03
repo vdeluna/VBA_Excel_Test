@@ -37,7 +37,7 @@ Double
 - If nominal_rate ≤ 0 or if npery < 1, EFFECT returns the #NUM! error value.
     
 - EFFECT is calculated as follows:
-![](..\images\awfefect_ZA06051135.gif)
+![](images/awfefect_ZA06051135.gif)
 
 
     

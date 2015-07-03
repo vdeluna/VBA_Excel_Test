@@ -36,7 +36,7 @@ Worksheets("Sheet1").Range("A1").Formula = "=$A$4+$A$10"
 
 
  **Sample code provided by:**
-![MVP Contributor](..\images\odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen, [MrExcel.com](http://www.mrexcel.com/) | [About the Contributor](c5be8952-fc3f-bdb3-d4a6-abf9d94eab1e.md#AboutContributor)
+![MVP Contributor](images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen, [MrExcel.com](http://www.mrexcel.com/) | [About the Contributor](c5be8952-fc3f-bdb3-d4a6-abf9d94eab1e.md#AboutContributor)
 
 The following code example sets the formula for cell A1 on Sheet1 to display today's date.
 
